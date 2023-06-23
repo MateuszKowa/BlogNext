@@ -12,6 +12,7 @@ const query = gql`
     }
   }
 `;
+("ZMIAN TYLKO BY SPRAWDZIĆ PULL");
 type postObject = {
   title: string;
   content: {
