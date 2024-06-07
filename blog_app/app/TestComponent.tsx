@@ -4,6 +4,7 @@ const TestComponent = () => {
       <span>SPAN</span>
       <span>SPAN</span>
       <span className="bg-blue">SPAN5</span>
+      <span className="bg-white">SPAN</span>
     </div>
   );
 };
