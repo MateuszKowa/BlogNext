@@ -1,4 +1,8 @@
 const TestComponent = () => {
-  return <div className="bg-blue w-full h-10"></div>;
+  return (
+    <div className="bg-blue w-full h-10">
+      <span>SPAN</span>
+    </div>
+  );
 };
 export default TestComponent;
